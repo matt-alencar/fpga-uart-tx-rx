@@ -23,8 +23,8 @@
 */
 
 `timescale 1ns/1ns
-`include "/home/matt/Projects/Quartus/Verilog Projects/UART Project/uart_tx.v"
-`include "/home/matt/Projects/Quartus/Verilog Projects/UART Project/uart_rx.v"
+`include "./uart_tx.v"
+`include "./uart_rx.v"
 
 
 module uart_tb ();
