@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 
 ## Acknowledgments
 
-* NandLand [Website](https://www.nandland.com/)
+* Nandland [Website](https://www.nandland.com/)
